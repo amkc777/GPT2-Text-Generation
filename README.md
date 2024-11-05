@@ -59,5 +59,20 @@ Here’s a quick breakdown of the main components in generate_text.py:
 - Text Generation: The model generates text based on a user-defined prompt.
 - Output Decoding: The generated sequence is decoded into human-readable text and printed.
 
+## 📂 Dependencies
+Make sure you have the following packages installed:
+
+Transformers: The core library to access pre-trained models
+PyTorch: Required for model computation
+
+## 📜 License
+This project is licensed under the MIT License. Feel free to use, modify, and share!
+
+## 🤝 Contributing
+We welcome contributions! Please fork the repo and create a pull request. For major changes, open an issue to discuss your ideas.
+
+## 🙌 Acknowledgements
+Hugging Face Transformers for providing accessible pre-trained NLP models.
+OpenAI for developing the GPT-2 model.
 
 Let me know if you'd like further customization or additional sections!
